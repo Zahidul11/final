@@ -23,11 +23,11 @@ html::-webkit-scrollbar{
 #navbar{
     background-color: #b2744c;
 }
-#logo img{
+/* #logo img{
     border-radius: 10px;
-    width: 160px;
-    margin-left: 40px;
-}
+   
+    margin-left: 30px;
+} */
 .navbar-nav{
     margin-left: 70px;
 }
@@ -369,24 +369,6 @@ html::-webkit-scrollbar{
 }
 
 /*contact end*/
-.logo2{
-   
-    
-
-    
-}
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -423,8 +405,8 @@ footer {
 }
 
 .socials a:hover {
-    color: #00aced; /* Change color on hover */
+    color: #00aced; 
+
+/* Change color on hover */
 }
-
-
 
